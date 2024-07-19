@@ -18,7 +18,7 @@
 * Installation
   
   1. Clone the repository:
-  2. ** git clone https://github.com/yourusername/speed-typing-game.git 
+   *** git clone https://github.com/yourusername/speed-typing-game.git 
   3. Navigate to the project directory:
   4. ** cd speed-typing-game 
   5. Install dependencies:
