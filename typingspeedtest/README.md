@@ -18,13 +18,13 @@
 * Installation
   
   1. Clone the repository:
-  2. **git clone https://github.com/yourusername/speed-typing-game.git **
+  2. ** git clone https://github.com/yourusername/speed-typing-game.git 
   3. Navigate to the project directory:
-  4. ** cd speed-typing-game **
+  4. ** cd speed-typing-game 
   5. Install dependencies:
   6. ** npm install
   7. Start the development server:
-  8. ** npm start
+  8. *** npm start
 
 
 * Usage
